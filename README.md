@@ -11,9 +11,9 @@ Enacted by Congress in 2020 to respond to the economic impact of the COVID-19 pa
 
 ● Reasearch Questions:
 
-1.	What are some defining characteristics of the removed loans?
+*	What are some defining characteristics of the removed loans?
 
-2.	How do the characteristics of loans that were removed from the PPP data compare to loans that were not removed from the PPP data? 
+*	How do the characteristics of loans that were removed from the PPP data compare to loans that were not removed from the PPP data? 
 
-3.	Is it possible to accurately predict whether or not a loan was removed from the data, using fields in the data set and/or additional information you incorporate?  
+*	Is it possible to accurately predict whether or not a loan was removed from the data, using fields in the data set and/or additional information you incorporate?  
 
