@@ -17,3 +17,6 @@ Enacted by Congress in 2020 to respond to the economic impact of the COVID-19 pa
 
 *	Is it possible to accurately predict whether or not a loan was removed from the data, using fields in the data set and/or additional information you incorporate?  
 
+● Data:
+* Loans to Georgia businesses that were removed from the PPP database
+* All loans to Georgia businesses that remain in the PPP database
